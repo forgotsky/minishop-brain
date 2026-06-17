@@ -1,0 +1,62 @@
+{
+  "sequences": [
+    {
+      "story": "SHOP-003",
+      "sequence": [
+        "planner",
+        "backend-dev",
+        "miniprogram-dev",
+        "tester",
+        "reviewer"
+      ],
+      "hash": "planner -> backend-dev -> miniprogram-dev -> tester -> reviewer",
+      "timestamp": 1781713202
+    },
+    {
+      "story": "SHOP-004",
+      "sequence": [
+        "planner",
+        "miniprogram-dev",
+        "reviewer"
+      ],
+      "hash": "planner -> miniprogram-dev -> reviewer",
+      "timestamp": 1781713202
+    },
+    {
+      "story": "SHOP-005",
+      "sequence": [
+        "planner",
+        "backend-dev",
+        "tester",
+        "reviewer"
+      ],
+      "hash": "planner -> backend-dev -> tester -> reviewer",
+      "timestamp": 1781713202
+    },
+    {
+      "story": "SHOP-006",
+      "sequence": [
+        "planner",
+        "backend-dev",
+        "tester",
+        "reviewer"
+      ],
+      "hash": "planner -> backend-dev -> tester -> reviewer",
+      "timestamp": 1781713208
+    },
+    {
+      "story": "SHOP-007",
+      "sequence": [
+        "planner",
+        "backend-dev",
+        "tester",
+        "reviewer"
+      ],
+      "hash": "planner -> backend-dev -> tester -> reviewer",
+      "timestamp": 1781713208
+    }
+  ],
+  "skills_generated": [
+    "planner -> backend-dev -> tester -> reviewer"
+  ]
+}
